@@ -10,7 +10,7 @@ Qeuph QUH is a quantum-resistant blockchain protocol addressing the vulnerabilit
 
 - **Quantum Resistance**: Leveraging ML-DSA-87 and SHA3-512 for robust cryptographic security.
 - **Efficient Transactions**: Enhanced with the unique txnonce field for replay prevention and orderly processing.
-- **Reward Innovation**: Introducing "thirding," a novel mechanism that adjusts block rewards over time to sustain miner incentives.
+- **Reward Innovation**: Introducing "two-thirding," a novel mechanism that adjusts block rewards over time to sustain miner incentives.
 - **Scalability and Privacy**: Incorporating advanced hashing and address encoding to balance transparency and user anonymity.
 
 This paper outlines the problem, solution, and potential applications of Qeuph QUH across industries such as finance, healthcare, and supply chain management.
