@@ -100,7 +100,7 @@ Qeuph QUH represents the next generation of blockchain technology, addressing th
 
 ### References
 1. FIPS 204: Lattice-Based Digital Signature Standard ML-DSA-87. Available at: [https://csrc.nist.gov/pubs/fips/204/final](https://csrc.nist.gov/pubs/fips/204/final)
-2. SHA3 Standard Documentation. Available at: [[[https://nvlpubs.nist.gov](https://csrc.nist.gov/pubs/fips/202/final)](https://csrc.nist.gov/pubs/fips/202/final)](https://nvlpubs.nist.gov)
+2. SHA3 Standard Documentation. Available at: [https://nvlpubs.nist.gov](https://csrc.nist.gov/pubs/fips/202/final)[https://csrc.nist.gov/pubs/fips/202/final)](https://nvlpubs.nist.gov)
 3. Bitcoin Whitepaper: Satoshi Nakamoto, 2008.
 4. Bech32m Specification: BIP-350. Available at: [https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki](https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki)
 
