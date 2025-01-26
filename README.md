@@ -1,7 +1,7 @@
 # Qeuph QUH: A Quantum-Resistant Blockchain Protocol
 
 ## Abstract
-As quantum computing advances, it poses a significant threat to traditional cryptographic systems, including those used in blockchain technology. Qeuph QUH is a pioneering blockchain protocol designed to address these vulnerabilities. By integrating the FIPS 204 Module-Lattice-Based Digital Signature Standard (ML-DSA-87), SHA3-512 hashing, and Bech32m addresses, Qeuph QUH offers unparalleled security, efficiency, and scalability. Compared to other quantum-resistant protocols, Qeuph QUH uses proven mechanisms such as "thirding" for block rewards, robust transaction validation, and quantum-resistant address generation. This whitepaper details the technical underpinnings and unique advantages of Qeuph QUH, setting a new standard for secure decentralized systems in the quantum era.
+As quantum computing advances, it poses a significant threat to traditional cryptographic systems, including those used in blockchain technology. Qeuph QUH is a pioneering blockchain protocol designed to address these vulnerabilities. By integrating the FIPS 204 Module-Lattice-Based Digital Signature Standard (ML-DSA-87), SHA3-512 hashing, and Bech32m addresses, Qeuph QUH offers unparalleled security, efficiency, and scalability. Compared to other quantum-resistant protocols, Qeuph QUH uses proven mechanisms such as "two-thirding" for block rewards, robust transaction validation, and quantum-resistant address generation. This whitepaper details the technical underpinnings and unique advantages of Qeuph QUH, setting a new standard for secure decentralized systems in the quantum era.
 
 ---
 
@@ -18,7 +18,7 @@ This paper outlines the problem, solution, and potential applications of Qeuph Q
 ---
 
 ## 1. Introduction
-Quantum computing presents an existential challenge to the cryptographic algorithms underlying most blockchain protocols. Estimates suggest that quantum computers capable of breaking widely used algorithms like secp256k1 and SHA2-256 may become viable within decades. Existing blockchain systems lack the necessary safeguards to withstand such advancements.
+Quantum computing presents an existential challenge to the cryptographic algorithms underlying most blockchain protocols. Estimates suggest that quantum computers capable of breaking widely used algorithms like secp256k1 and SHA2-256 may become unviable soon. Existing blockchain systems lack the necessary safeguards to withstand such advancements.
 
 ### Gaps in Current Protocols
 - Vulnerability to quantum attacks on digital signatures and hashing.
@@ -85,9 +85,11 @@ Bech32m improves usability and reduces errors during address entry. Unlike tradi
 Qeuph QUH employs Proof-of-Work (PoW) with SHA3-512 for secure and efficient consensus.
 
 ### 4.3 Thirding Mechanism
-Block rewards start at 50 QUH and decrease by one-third every 262,144 blocks. This ensures:
+Block rewards start at 50 QUH and decrease by two-third every 210,000 blocks. This ensures:
 - Sustained miner incentives over time.
 - A predictable and gradual coin supply distribution.
+
+### 4.4 Total Supply 31500000 QUH OR 31.5 million QUH in words
 
 ---
 
