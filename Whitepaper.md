@@ -89,8 +89,6 @@ Block rewards start at 50 QUH and decrease by one-third every 262,144 blocks. Th
 - Sustained miner incentives over time.
 - A predictable and gradual coin supply distribution.
 
-[Insert chart showing reward reduction and total supply over time.]
-
 ---
 
 ## 5. Security Considerations
@@ -116,10 +114,6 @@ Consider a quantum computer attempting to forge a transaction. ML-DSA-87’s lat
 - **Anonymous Public Keys**: Transactions are unlinkable to real-world identities.
 - **Key Pair Rotation**: A new key pair is recommended for each transaction to enhance anonymity.
 
-### 6.2 Future Plans
-- Exploring integration of zero-knowledge proofs for enhanced privacy.
-
----
 
 ## 7. Real-World Use Cases
 ### 7.1 Finance
