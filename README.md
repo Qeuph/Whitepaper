@@ -1,7 +1,7 @@
 # Qeuph QUH: A Quantum-Resistant Blockchain Protocol
 
 ## Abstract
-As quantum computing advances, it poses a significant threat to traditional cryptographic systems, including those used in blockchain technology. Qeuph QUH is a pioneering blockchain protocol designed to address these vulnerabilities. By integrating the FIPS 204 Module-Lattice-Based Digital Signature Standard (ML-DSA-87), SHA3-512 hashing, and Bech32m addresses, Qeuph QUH offers unparalleled security, efficiency, and scalability. Compared to other quantum-resistant protocols, Qeuph QUH introduces innovative mechanisms such as "thirding" for block rewards, robust transaction validation, and quantum-resistant address generation. This whitepaper details the technical underpinnings and unique advantages of Qeuph QUH, setting a new standard for secure decentralized systems in the quantum era.
+As quantum computing advances, it poses a significant threat to traditional cryptographic systems, including those used in blockchain technology. Qeuph QUH is a pioneering blockchain protocol designed to address these vulnerabilities. By integrating the FIPS 204 Module-Lattice-Based Digital Signature Standard (ML-DSA-87), SHA3-512 hashing, and Bech32m addresses, Qeuph QUH offers unparalleled security, efficiency, and scalability. Compared to other quantum-resistant protocols, Qeuph QUH uses proven mechanisms such as "thirding" for block rewards, robust transaction validation, and quantum-resistant address generation. This whitepaper details the technical underpinnings and unique advantages of Qeuph QUH, setting a new standard for secure decentralized systems in the quantum era.
 
 ---
 
